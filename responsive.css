@@ -1,0 +1,53 @@
+@media (max-width:576px) {
+	.header_Desktop{
+		display:none;
+	}
+	.header_mobile{
+		display:block;
+	}
+}
+
+@media (min-width: 576px){
+	.header_Desktop{
+		display:none;
+	}
+	.header_mobile{
+		display:block;
+	}
+
+
+}
+
+@media (min-width: 768px){ 
+	.header_Desktop{
+		display:none;
+	}
+}
+
+
+@media (min-width: 992px){
+	.header_mobile{
+		display:none;
+	}
+	.header_Desktop{
+		display:block;
+	}
+}
+
+@media (min-width: 1200px){ 
+	.header_mobile{
+		display:none;
+	}
+	.header_Desktop{
+		display:block;
+	}
+
+}
+
+
+
+
+
+
+
+
