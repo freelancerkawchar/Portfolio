@@ -1,0 +1,30 @@
+.contact {
+	background: lightgreen;
+	padding: 5px;
+	text-align: center;
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+
+.contact p, h2 {
+	text-align: center;
+	color: red;
+}
+.contact p{
+	font-size:20px;
+}
+.contact input[type="text"],  input[type="email"], input[type="password"]{
+	padding:5px;
+	margin-bottom:10px;
+	border:1px solid #ddd;
+	border-radius:5px;
+	margin-top:10px;
+	width:70%;
+	
+}
+textarea{
+	border-radius:5px;
+}
+.contact input[type="submit"]{
+	width:100%;
+}
